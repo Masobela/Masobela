@@ -1,6 +1,6 @@
 ## Hi, I'm Neo👋
 
-Aspiring Data Engineer passionate about building systems that process and analyze data.
+Aspiring Data Analyst passionate about building systems that process and analyze data.
 
 Skills I'm Learning:
  1. Python
