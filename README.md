@@ -1,36 +1,25 @@
-## Hi, I'm Neo👋
+Hi, I’m Neo 👋
 
-Aspiring Data Analyst passionate about building systems that process and analyze data.
+Aspiring Data Analyst focused on turning raw data into clear, actionable insights.
 
-Skills I'm Learning:
- 1. Python
- 2. SQL
- 3. Data Engineering Concepts
- 4. Data Processing
- 5. Git & GitHub
+**Current Focus:**
 
-Projects:
- 1. Transaction Tracker (Python)
- 2. Fraud Detection Simulation
- 3. Data Analysis with SQL
- 4. Financial Data Processing
+* Python for data analysis
+* SQL for querying and data manipulation
+* Data cleaning & preprocessing
+* Data visualization & storytelling
+* Git & GitHub for version control
 
-Goal:
-To become a professional Data Engineer and build scalable data systems that help businesses make data-driven decisions.
+**Projects:**
 
-GitHub Projects:
-Check out my repositories to see the projects I'm building as I learn data engineering.
-<!--
-**Masobela/Masobela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Transaction Tracker (Python)
+* Fraud Detection Simulation
+* Data Analysis with SQL
+* Financial Data Processing
 
-Here are some ideas to get you started:
+I’m currently building a strong foundation in data analytics, with a focus on practical, real-world problem solving and decision-making through data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Goal:**
+To become a professional Data Analyst who helps businesses make informed, data-driven decisions through meaningful insights and well-structured analysis.
+
+Feel free to explore my GitHub repositories to follow my progress as I continue learning and building.
