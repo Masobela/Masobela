@@ -1,25 +1,33 @@
 Hi, I’m Neo 👋
 
-Aspiring Data Analyst focused on turning raw data into clear, actionable insights.
+Aspiring Cloud Engineer focused on building strong foundations in cloud infrastructure, automation, and real-world system design.
 
-**Current Focus:**
+☁️ Current Focus
 
-* Python for data analysis
-* SQL for querying and data manipulation
-* Data cleaning & preprocessing
-* Data visualization & storytelling
-* Git & GitHub for version control
+AWS Cloud & Cloud Engineering Fundamentals
+Amazon EC2 and core cloud infrastructure
+Cloud networking, storage, and security fundamentals
+Linux and command-line basics
+Python for automation and scripting
+Git & GitHub for version control and collaboration
 
-**Projects:**
+🚀 Learning Journey
+Enrolled in the AWS re/Start program
+Completing hands-on labs through AWS Cloud Quest
+Learning how real-world cloud systems are designed and deployed
+Understanding scalability, high availability, and fault tolerance
+Studying cloud security principles and the AWS Shared Responsibility Model
+Building toward the AWS Certified Cloud Practitioner certification
 
-* Transaction Tracker (Python)
-* Fraud Detection Simulation
-* Data Analysis with SQL
-* Financial Data Processing
+📂 Projects
+Transaction Tracker (Python)
+Fraud Detection Simulation
+Financial Data Processing
+AWS Cloud Labs & Practice Projects
+🎯 Career Goal
 
-I’m currently building a strong foundation in data analytics, with a focus on practical, real-world problem solving and decision-making through data.
+To become a Cloud Engineer capable of designing, deploying, and managing scalable and secure cloud systems using AWS and modern infrastructure tools.
 
-**Goal:**
-To become a professional Data Analyst who helps businesses make informed, data-driven decisions through meaningful insights and well-structured analysis.
+📈 Continuous Growth
 
-Feel free to explore my GitHub repositories to follow my progress as I continue learning and building.
+I’m actively building hands-on cloud experience through structured learning (AWS re/Start), labs, and personal projects while documenting my journey here on GitHub.
