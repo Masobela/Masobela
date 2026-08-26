@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Neo%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20Security%20Analyst%20%7C%20Cybersecurity%20%26%20Cloud&descSize=18&descAlignY=55" />
 
 </div>
+# Hey there my name is Neo
 
 * Aspiring **Security Analyst** focused on building strong foundations in cybersecurity, networking, and secure cloud infrastructure.
 
