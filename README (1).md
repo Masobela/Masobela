@@ -4,7 +4,7 @@
 
 </div>
 
-# Hey There My name is Neo
+# Hey there my ame is Neo Masobela
 * Aspiring **Security Analyst** focused on building strong foundations in cybersecurity, networking, and secure cloud infrastructure.
 
 ## 🛡️ Current Focus
